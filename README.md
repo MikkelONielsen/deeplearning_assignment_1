@@ -1,8 +1,8 @@
 # Deeplearning_assignment_1
-Annika and Mikkels submission for assingment 2 in deep learning
+Annika and Mikkels submission for assingment 1 in deep learning
 
-Part one: Bible verse search engine - use your favorite inspiriational quotes to find the best suiting bible verse!
+We have chosen to work with a dataset about breast cancer found on Kaggle: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset.
 
-Part two: Gradient Descent Exercise and Attention Mechanism Exercise
+We have made a neural network that can predict weather a tumor is cancerous or not based on 10 imput features.
 
-To try the gradio you need to run the notebook, the embedding takes two or three minutes.
+Our neural network has a 92% accuracy in the test-data, only mis-classifying one tumor as non-cancerous but in reality it was cancerous.
